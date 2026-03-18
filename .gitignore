@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+playwright.ps1
+playwright.sh
+playwright.cmd
+scraped_quotes.json
